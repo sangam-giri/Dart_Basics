@@ -1,0 +1,10 @@
+Dart is the programming language developed by Google. We can create applications for almost every platform using Dart Programming language i.e for Windows, Android, IOS, MAC, Linux,etc.
+
+Dart is meant to be fast and we can also run dart in broswer using 'dartpad'
+
+We can run dart program on Visual Studio Code using Terminal
+
+Step 1: Create a new Terminal
+Step 2: Go to the Terminal Tab
+Step 3: enter <dart file_name.dart>
+Step 4: This will run and throw output of the specific program you just wrote.
