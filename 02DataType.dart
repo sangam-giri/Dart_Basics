@@ -1,9 +1,9 @@
-// Data Types in Dart 
-// 1. String 
-// 2. int 
-// 3. double 
-// 4. bool 
-// here we can define string inside or outside of the function depending on our requirement and choice 
+/* Data Types in Dart 
+1. String 
+2. int 
+3. double 
+4. bool 
+here we can define string inside or outside of the function depending on our requirement and choice */
 
 String name ="Sangam Giri";//String data type
 int number = 30; // int data type

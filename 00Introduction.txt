@@ -8,3 +8,6 @@ Step 1: Create a new Terminal
 Step 2: Go to the Terminal Tab
 Step 3: enter <dart file_name.dart>
 Step 4: This will run and throw output of the specific program you just wrote.
+
+
+To crear the Terminal: clear
